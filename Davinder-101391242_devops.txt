@@ -1,0 +1,13 @@
+COMP 2156 DevOps is a course offered at George Brown College that focuses on the principles and practices of DevOps, which is a software development approach that emphasizes collaboration, automation, and continuous delivery.
+The course covers a range of topics related to DevOps, including:
+
+Introduction to DevOps: This section of the course provides an overview of the DevOps methodology, its history, and the benefits it provides to software development teams.
+
+Infrastructure as Code: In this section, students learn how to use tools like Terraform and Ansible to automate the process of setting up and managing infrastructure.
+
+Continuous Integration and Continuous Delivery (CI/CD): This section covers the practices of continuous integration and continuous delivery, which are central to the DevOps methodology. Students learn how to use tools like Jenkins and GitLab to automate the process of building, testing, and deploying software.
+
+Monitoring and Logging: This section covers the importance of monitoring and logging in DevOps, and how tools like Nagios and ELK can be used to monitor systems and detect issues in real-time.
+
+Cloud Computing: In this section, students learn how to use cloud platforms like Amazon Web Services (AWS) and Microsoft Azure to deploy and manage applications in the cloud.
+The COMP 2156 DevOps course is designed to provide students with the skills and knowledge they need to work in a DevOps environment, and to help them prepare for industry-recognized certifications like the Certified DevOps Engineer (CDE) and the AWS Certified DevOps Engineer - Professional. The course combines theoretical concepts with hands-on lab work, allowing students to apply what they have learned in a practical setting.
